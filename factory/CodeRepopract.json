@@ -1,0 +1,9 @@
+{
+	"name": "CodeRepopract",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e111eaf9-7c75-4944-9b43-a91e9cd43b78",
+		"tenantId": "cb66d0ff-e482-4ae1-bd42-a199c2f96350"
+	}
+}
